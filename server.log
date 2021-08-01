@@ -1,0 +1,67 @@
+info: Aug-01-2021 11:58:22: 	Connected to mongodb..
+info: Aug-01-2021 11:58:22: 	app listeing on port: 3000
+info: Aug-01-2021 11:59:06: 	Connected to mongodb..
+info: Aug-01-2021 11:59:06: 	app listeing on port: 3000
+info: Aug-01-2021 11:59:18: 	User logged out
+info: Aug-01-2021 11:59:21: 	User {"tenants":["61065c72b10e0435942e6c16","61065ccae51bcb1c98badc91","61065d35c2274e3648128890"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T08:53:57.997Z","__v":11} logged in
+info: Aug-01-2021 11:59:21: 	User demo logged in
+info: Aug-01-2021 12:00:17: 	User logged out
+info: Aug-01-2021 12:00:18: 	User {"tenants":[],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T08:53:57.997Z","__v":11} logged in
+info: Aug-01-2021 12:00:18: 	User demo logged in
+error: Aug-01-2021 12:00:23: 	getAll fail Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Aug-01-2021 12:00:54: 	Connected to mongodb..
+info: Aug-01-2021 12:00:54: 	app listeing on port: 3000
+info: Aug-01-2021 12:01:01: 	User logged out
+info: Aug-01-2021 12:01:04: 	User {"tenants":[],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T08:53:57.997Z","__v":11} logged in
+info: Aug-01-2021 12:01:04: 	User demo logged in
+error: Aug-01-2021 12:01:05: 	getAll fail Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Aug-01-2021 12:01:28: 	User {"tenants":[],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T08:53:57.997Z","__v":11} logged in
+info: Aug-01-2021 12:01:28: 	User demo logged in
+error: Aug-01-2021 12:01:43: 	getAll fail Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Aug-01-2021 12:02:05: 	Connected to mongodb..
+info: Aug-01-2021 12:02:05: 	app listeing on port: 3000
+info: Aug-01-2021 12:02:09: 	User logged out
+info: Aug-01-2021 12:02:10: 	User {"tenants":[],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T08:53:57.997Z","__v":11} logged in
+info: Aug-01-2021 12:02:10: 	User demo logged in
+info: Aug-01-2021 12:14:55: 	User {"tenants":["6106632247d62a0658211ac3"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:02:26.955Z","__v":12} logged in
+info: Aug-01-2021 12:14:55: 	User demo logged in
+info: Aug-01-2021 12:17:42: 	User {"tenants":["6106632247d62a0658211ac3"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:02:26.955Z","__v":12} logged in
+info: Aug-01-2021 12:17:42: 	User demo logged in
+info: Aug-01-2021 12:20:10: 	User {"tenants":["6106632247d62a0658211ac3"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:02:26.955Z","__v":12} logged in
+info: Aug-01-2021 12:20:10: 	User demo logged in
+info: Aug-01-2021 12:21:35: 	User logged out
+info: Aug-01-2021 12:21:36: 	User {"tenants":["6106632247d62a0658211ac3"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:02:26.955Z","__v":12} logged in
+info: Aug-01-2021 12:21:36: 	User demo logged in
+info: Aug-01-2021 12:26:14: 	User {"tenants":["6106632247d62a0658211ac3","610667b447d62a0658211af8"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:21:56.860Z","__v":13} logged in
+info: Aug-01-2021 12:26:14: 	User demo logged in
+info: Aug-01-2021 12:30:19: 	User {"tenants":["6106632247d62a0658211ac3","610667b447d62a0658211af8"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:21:56.860Z","__v":13} logged in
+info: Aug-01-2021 12:30:19: 	User demo logged in
+info: Aug-01-2021 12:30:29: 	delete tenant 610667b447d62a0658211af8
+info: Aug-01-2021 12:30:29: 	delete tenant {"n":1,"ok":1,"deletedCount":1}
+info: Aug-01-2021 12:32:39: 	User {"tenants":["6106632247d62a0658211ac3"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:30:29.885Z","__v":13} logged in
+info: Aug-01-2021 12:32:39: 	User demo logged in
+info: Aug-01-2021 12:34:50: 	User {"tenants":["6106632247d62a0658211ac3"],"_id":"610637d14575ac379027f37a","name":"demo","password":"$2b$10$ycsD2pp8QwnGsRNrkPJ5Nu/GE3bTo.kxN9qjH62DK7LuGx1ntXxqu","createdAt":"2021-08-01T05:57:37.677Z","updatedAt":"2021-08-01T09:30:29.885Z","__v":13} logged in
+info: Aug-01-2021 12:34:50: 	User demo logged in
+info: Aug-01-2021 12:48:24: 	Connected to mongodb..
+info: Aug-01-2021 12:48:24: 	app listeing on port: 3000
+info: Aug-01-2021 12:50:02: 	Connected to mongodb..
+info: Aug-01-2021 12:50:02: 	app listeing on port: 3000
+info: Aug-01-2021 12:50:40: 	Connected to mongodb..
+info: Aug-01-2021 12:50:40: 	app listeing on port: 3000
+info: Aug-01-2021 12:51:03: 	Connected to mongodb..
+info: Aug-01-2021 12:51:03: 	app listeing on port: 3000
+info: Aug-01-2021 13:03:09: 	User demo logged in
+info: Aug-01-2021 13:06:50: 	Connected to mongodb..
+info: Aug-01-2021 13:06:50: 	app listeing on port: 3000
+info: Aug-01-2021 13:06:54: 	Connected to mongodb..
+info: Aug-01-2021 13:06:54: 	app listeing on port: 3000
+info: Aug-01-2021 13:10:02: 	Connected to mongodb..
+info: Aug-01-2021 13:10:02: 	app listeing on port: 3000
+info: Aug-01-2021 13:10:20: 	Connected to mongodb..
+info: Aug-01-2021 13:10:20: 	app listeing on port: 3000
+info: Aug-01-2021 13:10:57: 	Connected to mongodb..
+info: Aug-01-2021 13:10:57: 	app listeing on port: 3000
+info: Aug-01-2021 13:11:34: 	User logged out
+info: Aug-01-2021 13:11:35: 	User demo logged in
+info: Aug-01-2021 13:32:05: 	Connected to mongodb..
+info: Aug-01-2021 13:32:05: 	app listeing on port: 3000
