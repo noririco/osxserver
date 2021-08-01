@@ -1,0 +1,70 @@
+@TOKEN = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTA2MzdkMTQ1NzVhYzM3OTAyN2YzN2EiLCJpYXQiOjE2Mjc4MDg0ODgsImV4cCI6MTYyNzgwODYwOH0.knxvU0xRIc2qi658qtcOTgnkWaExmoRz0VYovBcnts0
+### POST login
+
+# @name login
+POST http://localhost:3000/api/login
+content-type: application/json
+
+{
+    "name": "demo",
+    "password": "helloosx"
+}
+
+###
+
+POST http://localhost:3000/api/logout
+content-type: application/json
+
+
+### GET all tenants
+
+GET http://localhost:3000/api/tenants
+content-type: application/json
+Authorization: Bearer {{TOKEN}}
+
+###
+
+### GET tenant
+
+GET http://localhost:3000/api/tenant/610640d7345e9835f85a9579
+content-type: application/json
+Authorization: Bearer {{TOKEN}}
+
+###
+
+### POST tenant
+
+POST http://localhost:3000/api/tenant
+content-type: application/json
+Authorization: Bearer {{TOKEN}}
+
+{
+    "name": "SHRAY",
+    "phone_number": "05243055555",
+    "address": "Alex Meir 144",
+    "debt": 2210
+}
+
+###
+
+### PUT tenant
+
+PUT http://localhost:3000/api/tenant/610640d7345e9835f85a9579
+content-type: application/json
+Authorization: Bearer {{TOKEN}}
+
+{
+    "name": "awesome",
+    "phone_number": "0544941111",
+    "address": "Begin Menahem 144",
+    "debt": 0
+}
+###
+
+### DELETE tenant
+
+DELETE http://localhost:3000/api/tenant/61066114d35ca32cb454a2c6
+content-type: application/json
+Authorization: Bearer {{TOKEN}}
+
+###
